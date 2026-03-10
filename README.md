@@ -2,6 +2,8 @@
 
 A simple and responsive weather application that fetches real-time weather data using the OpenWeatherMap API. Users can enter a city name and view the current temperature instantly.
 
+COMPANY:Alfido Tech
+
 NAME:B.Damini
 
 ID:BS/REG/117061
