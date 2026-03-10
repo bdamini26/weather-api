@@ -19,7 +19,9 @@ OUTPUT:
 - Display temperature in Celsius
 - Simple and clean user interface
 - Responsive design
+  
 Technologies Used:
+
 - HTML5
 - CSS3
 - JavaScript
